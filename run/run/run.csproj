@@ -12,21 +12,20 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>C:\Users\Administrator\Desktop\</PublishUrl>
     <Install>true</Install>
-    <InstallFrom>Web</InstallFrom>
-    <UpdateEnabled>true</UpdateEnabled>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
     <UpdateMode>Foreground</UpdateMode>
     <UpdateInterval>7</UpdateInterval>
     <UpdateIntervalUnits>Days</UpdateIntervalUnits>
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>http://localhost:8080/</InstallUrl>
-    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
-    <ApplicationRevision>3</ApplicationRevision>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>4</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -112,12 +111,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="NewFolder1\spell\clean.png" />
-    <Content Include="NewFolder1\spell\fire.png" />
-    <Content Include="NewFolder1\spell\flash.jpg" />
-    <Content Include="NewFolder1\spell\heal.png" />
-    <Content Include="NewFolder1\spell\khien.png" />
-    <Content Include="NewFolder1\spell\weakness.png" />
+    <Content Include="Properties\NewFolder1\spell\clean.png" />
+    <Content Include="Properties\NewFolder1\spell\fire.png" />
+    <Content Include="Properties\NewFolder1\spell\flash.jpg" />
+    <Content Include="Properties\NewFolder1\spell\heal.png" />
+    <Content Include="Properties\NewFolder1\spell\khien.png" />
+    <Content Include="Properties\NewFolder1\spell\weakness.png" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">

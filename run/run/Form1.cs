@@ -22,31 +22,31 @@ namespace run
             if (textBox1.Text == "flash")
             {
                 button1.Text = "flash";
-                pictureBox1.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\flash.jpg");
+                pictureBox1.Image = new Bitmap(Application.StartupPath + "\\spell\\flash.jpg");
 
             }
             if (textBox1.Text == "fire")
             {
                 button1.Text = "fire";
-                pictureBox1.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\fire.png");
+                pictureBox1.Image = new Bitmap(Application.StartupPath +" \\spell\\fire.png");
 
             }
             if (textBox1.Text == "clean")
             {
                 button1.Text = "clean";
-                pictureBox1.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\clean.png");
+                pictureBox1.Image = new Bitmap(Application.StartupPath + "\\spell\\clean.png");
 
             }
             if (textBox1.Text == "heal")
             {
                 button1.Text = "heal";
-                pictureBox1.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\heal.png");
+                pictureBox1.Image = new Bitmap(Application.StartupPath + "\\spell\\heal.png");
 
             }
             if (textBox1.Text == "weakness")
             {
                 button1.Text = "weakness";
-                pictureBox1.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\weakness.png");
+                pictureBox1.Image = new Bitmap(Application.StartupPath + "\\spell\\weakness.png");
 
             }
            
@@ -57,31 +57,31 @@ namespace run
             if (textBox2.Text == "flash")
             {
                 button2.Text = "flash";
-                pictureBox2.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\flash.jpg");
+                pictureBox2.Image = new Bitmap(Application.StartupPath + "\\spell\\flash.jpg");
 
             }
             if (textBox2.Text == "fire")
             {
                 button2.Text = "fire";
-                pictureBox2.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\fire.png");
+                pictureBox2.Image = new Bitmap(Application.StartupPath + "\\spell\\fire.png");
 
             }
             if (textBox2.Text == "clean")
             {
                 button2.Text = "clean";
-                pictureBox2.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\clean.jpg");
+                pictureBox2.Image = new Bitmap(Application.StartupPath + "\\spell\\clean.jpg");
 
             }
             if (textBox2.Text == "heal")
             {
                 button2.Text = "heal";
-                pictureBox2.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\heal.png");
+                pictureBox2.Image = new Bitmap(Application.StartupPath + "\\spell\\heal.png");
 
             }
             if (textBox2.Text == "weakness")
             {
                 button2.Text = "weakness";
-                pictureBox2.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\weakness.png");
+                pictureBox2.Image = new Bitmap(Application.StartupPath + "\\spell\\weakness.png");
 
             }
 
@@ -92,31 +92,31 @@ namespace run
             if (textBox3.Text == "flash")
             {
                 button3.Text = "flash";
-                pictureBox3.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\flash.jpg");
+                pictureBox3.Image = new Bitmap(Application.StartupPath + "\\spell\\flash.jpg");
 
             }
             if (textBox3.Text == "fire")
             {
                 button3.Text = "fire";
-                pictureBox3.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\fire.png");
+                pictureBox3.Image = new Bitmap(Application.StartupPath + "\\spell\\fire.png");
 
             }
             if (textBox3.Text == "clean")
             {
                 button3.Text = "clean";
-                pictureBox3.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\clean.png");
+                pictureBox3.Image = new Bitmap(Application.StartupPath + "\\spell\\clean.png");
 
             }
             if (textBox3.Text == "heal")
             {
                 button3.Text = "heal";
-                pictureBox3.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\heal.png");
+                pictureBox3.Image = new Bitmap(Application.StartupPath + "\\spell\\heal.png");
 
             }
             if (textBox3.Text == "weakness")
             {
                 button3.Text = "weakness";
-                pictureBox3.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\weakness.png");
+                pictureBox3.Image = new Bitmap(Application.StartupPath + "\\spell\\weakness.png");
 
             }
         }
@@ -126,31 +126,31 @@ namespace run
             if (textBox4.Text == "flash")
             {
                 button4.Text = "flash";
-                pictureBox4.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\flash.jpg");
+                pictureBox4.Image = new Bitmap(Application.StartupPath + "\\spell\\flash.jpg");
 
             }
             if (textBox4.Text == "fire")
             {
                 button4.Text = "fire";
-                pictureBox4.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\fire.png");
+                pictureBox4.Image = new Bitmap(Application.StartupPath + "\\spell\\fire.png");
 
             }
             if (textBox4.Text == "clean")
             {
                 button4.Text = "clean";
-                pictureBox4.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\clean.jpg");
+                pictureBox4.Image = new Bitmap(Application.StartupPath + "\\spell\\clean.jpg");
 
             }
             if (textBox4.Text == "heal")
             {
                 button4.Text = "heal";
-                pictureBox4.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\heal.png");
+                pictureBox4.Image = new Bitmap(Application.StartupPath + "\\spell\\heal.png");
 
             }
             if (textBox4.Text == "weakness")
             {
                 button4.Text = "weakness";
-                pictureBox4.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\weakness.png");
+                pictureBox4.Image = new Bitmap(Application.StartupPath + "\\spell\\weakness.png");
 
             }
 
@@ -161,31 +161,31 @@ namespace run
             if (textBox5.Text == "flash")
             {
                 button5.Text = "flash";
-                pictureBox5.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\flash.jpg");
+                pictureBox5.Image = new Bitmap(Application.StartupPath + "\\spell\\flash.jpg");
 
             }
             if (textBox5.Text == "fire")
             {
                 button5.Text = "fire";
-                pictureBox5.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\fire.png");
+                pictureBox5.Image = new Bitmap(Application.StartupPath + "\\spell\\fire.png");
 
             }
             if (textBox5.Text == "clean")
             {
                 button5.Text = "clean";
-                pictureBox5.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\clean.jpg");
+                pictureBox5.Image = new Bitmap(Application.StartupPath + "\\spell\\clean.jpg");
 
             }
             if (textBox5.Text == "heal")
             {
                 button5.Text = "heal";
-                pictureBox5.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\heal.png");
+                pictureBox5.Image = new Bitmap(Application.StartupPath + "\\spell\\heal.png");
 
             }
             if (textBox5.Text == "weakness")
             {
                 button5.Text = "weakness";
-                pictureBox5.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\weakness.png");
+                pictureBox5.Image = new Bitmap(Application.StartupPath + "\\spell\\weakness.png");
 
             }
 
@@ -196,31 +196,31 @@ namespace run
             if (textBox6.Text == "flash")
             {
                 button6.Text = "flash";
-                pictureBox6.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\flash.jpg");
+                pictureBox6.Image = new Bitmap(Application.StartupPath + "\\spell\\flash.jpg");
 
             }
             if (textBox6.Text == "fire")
             {
                 button6.Text = "fire";
-                pictureBox6.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\fire.png");
+                pictureBox6.Image = new Bitmap(Application.StartupPath + "\\spell\\fire.png");
 
             }
             if (textBox6.Text == "clean")
             {
                 button6.Text = "clean";
-                pictureBox6.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\clean.jpg");
+                pictureBox6.Image = new Bitmap(Application.StartupPath + "\\spell\\clean.jpg");
 
             }
             if (textBox6.Text == "heal")
             {
                 button6.Text = "heal";
-                pictureBox6.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\heal.png");
+                pictureBox6.Image = new Bitmap(Application.StartupPath + "\\spell\\heal.png");
 
             }
             if (textBox6.Text == "weakness")
             {
                 button6.Text = "weakness";
-                pictureBox6.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\weakness.png");
+                pictureBox6.Image = new Bitmap(Application.StartupPath + "\\spell\\weakness.png");
 
             }
 
@@ -231,31 +231,31 @@ namespace run
             if (textBox7.Text == "flash")
             {
                 button7.Text = "flash";
-                pictureBox7.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\flash.jpg");
+                pictureBox7.Image = new Bitmap(Application.StartupPath + "\\spell\\flash.jpg");
 
             }
             if (textBox7.Text == "fire")
             {
                 button7.Text = "fire";
-                pictureBox7.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\fire.png");
+                pictureBox7.Image = new Bitmap(Application.StartupPath + "\\spell\\fire.png");
 
             }
             if (textBox7.Text == "clean")
             {
                 button7.Text = "clean";
-                pictureBox7.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\clean.jpg");
+                pictureBox7.Image = new Bitmap(Application.StartupPath + "\\spell\\clean.jpg");
 
             }
             if (textBox7.Text == "heal")
             {
                 button7.Text = "heal";
-                pictureBox7.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\heal.png");
+                pictureBox7.Image = new Bitmap(Application.StartupPath + "\\spell\\heal.png");
 
             }
             if (textBox7.Text == "weakness")
             {
                 button7.Text = "weakness";
-                pictureBox7.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\weakness.png");
+                pictureBox7.Image = new Bitmap(Application.StartupPath + "\\spell\\weakness.png");
 
             }
 
@@ -266,31 +266,31 @@ namespace run
             if (textBox8.Text == "flash")
             {
                 button8.Text = "flash";
-                pictureBox8.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\flash.jpg");
+                pictureBox8.Image = new Bitmap(Application.StartupPath + "\\spell\\flash.jpg");
 
             }
             if (textBox8.Text == "fire")
             {
                 button8.Text = "fire";
-                pictureBox8.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\fire.png");
+                pictureBox8.Image = new Bitmap(Application.StartupPath + "\\spell\\fire.png");
 
             }
             if (textBox8.Text == "clean")
             {
                 button8.Text = "clean";
-                pictureBox8.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\clean.jpg");
+                pictureBox8.Image = new Bitmap(Application.StartupPath + "\\spell\\clean.jpg");
 
             }
             if (textBox8.Text == "heal")
             {
                 button8.Text = "heal";
-                pictureBox8.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\heal.png");
+                pictureBox8.Image = new Bitmap(Application.StartupPath + "\\spell\\heal.png");
 
             }
             if (textBox8.Text == "weakness")
             {
                 button8.Text = "weakness";
-                pictureBox8.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\weakness.png");
+                pictureBox8.Image = new Bitmap(Application.StartupPath + "\\spell\\weakness.png");
 
             }
 
@@ -301,31 +301,31 @@ namespace run
             if (textBox9.Text == "flash")
             {
                 button9.Text = "flash";
-                pictureBox9.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\flash.jpg");
+                pictureBox9.Image = new Bitmap(Application.StartupPath + "\\spell\\flash.jpg");
 
             }
             if (textBox9.Text == "fire")
             {
                 button9.Text = "fire";
-                pictureBox9.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\fire.png");
+                pictureBox9.Image = new Bitmap(Application.StartupPath + "\\spell\\fire.png");
 
             }
             if (textBox9.Text == "clean")
             {
                 button9.Text = "clean";
-                pictureBox9.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\clean.jpg");
+                pictureBox9.Image = new Bitmap(Application.StartupPath + "\\spell\\clean.jpg");
 
             }
             if (textBox9.Text == "heal")
             {
                 button9.Text = "heal";
-                pictureBox9.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\heal.png");
+                pictureBox9.Image = new Bitmap(Application.StartupPath + "\\spell\\heal.png");
 
             }
             if (textBox9.Text == "weakness")
             {
                 button9.Text = "weakness";
-                pictureBox9.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\weakness.png");
+                pictureBox9.Image = new Bitmap(Application.StartupPath + "\\spell\\weakness.png");
 
             }
 
@@ -336,31 +336,31 @@ namespace run
             if (textBox10.Text == "flash")
             {
                 button10.Text = "flash";
-                pictureBox10.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\flash.jpg");
+                pictureBox10.Image = new Bitmap(Application.StartupPath + "\\spell\\flash.jpg");
 
             }
             if (textBox10.Text == "fire")
             {
                 button10.Text = "fire";
-                pictureBox10.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\fire.png");
+                pictureBox10.Image = new Bitmap(Application.StartupPath + "\\spell\\fire.png");
 
             }
             if (textBox10.Text == "clean")
             {
                 button10.Text = "clean";
-                pictureBox10.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\clean.jpg");
+                pictureBox10.Image = new Bitmap(Application.StartupPath + "\\spell\\clean.jpg");
 
             }
             if (textBox10.Text == "heal")
             {
                 button10.Text = "heal";
-                pictureBox10.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\heal.png");
+                pictureBox10.Image = new Bitmap(Application.StartupPath + "\\spell\\heal.png");
 
             }
             if (textBox10.Text == "weakness")
             {
                 button10.Text = "weakness";
-                pictureBox10.Image = Image.FromFile("C:\\Users\\Administrator\\source\\repos\\run\\run\\NewFolder1\\spell\\weakness.png");
+                pictureBox10.Image = new Bitmap(Application.StartupPath + "\\spell\\weakness.png");
 
             }
             ///dday for player 1
@@ -375,7 +375,7 @@ namespace run
         {
             if (textBox1.Text == "flash")
             {
-                counttocbien = 360;
+                counttocbien = 300;
                 tocbien.Start();
             }
             if (textBox1.Text == "fire")
@@ -441,7 +441,7 @@ namespace run
         {
             if (textBox2.Text == "flash")
             {
-                counttocbien2= 360;
+                counttocbien2= 300;
                 tocbien2.Start();
             }
             if (textBox2.Text == "fire")
@@ -510,7 +510,7 @@ namespace run
         {
             if (textBox3.Text == "flash")
             {
-                counttocbien3 = 360;
+                counttocbien3 = 300;
                 tocbien.Start();
             }
             if (textBox3.Text == "fire")
@@ -578,7 +578,7 @@ namespace run
         {
             if (textBox4.Text == "flash")
             {
-                counttocbien4 = 360;
+                counttocbien4 = 300;
                 tocbien4.Start();
             }
             if (textBox4.Text == "fire")
@@ -673,7 +673,7 @@ namespace run
         {
             if (textBox5.Text == "flash")
             {
-                counttocbien5 = 360;
+                counttocbien5 = 300;
                 tocbien5.Start();
             }
             if (textBox5.Text == "fire")
@@ -735,7 +735,7 @@ namespace run
         {
             if (textBox6.Text == "flash")
             {
-                counttocbien6= 360;
+                counttocbien6= 300;
                 tocbien5.Start();
             }
             if (textBox6.Text == "fire")
@@ -797,7 +797,7 @@ namespace run
         {
             if (textBox7.Text == "flash")
             {
-                counttocbien7 = 360;
+                counttocbien7 = 300;
                 tocbien5.Start();
             }
             if (textBox7.Text == "fire")
@@ -860,7 +860,7 @@ namespace run
         {
             if (textBox8.Text == "flash")
             {
-                counttocbien8 = 360;
+                counttocbien8 = 300;
                 tocbien5.Start();
             }
             if (textBox8.Text == "fire")
@@ -923,7 +923,7 @@ namespace run
         {
             if (textBox9.Text == "flash")
             {
-                counttocbien9 = 360;
+                counttocbien9 = 300;
                 tocbien5.Start();
             }
             if (textBox9.Text == "fire")
@@ -986,7 +986,7 @@ namespace run
         {
             if (textBox10.Text == "flash")
             {
-                counttocbien8 = 360;
+                counttocbien8 = 300;
                 tocbien5.Start();
             }
             if (textBox10.Text == "fire")
